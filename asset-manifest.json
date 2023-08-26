@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mern-app/static/css/main.e800b2bd.css",
+    "main.js": "/mern-app/static/js/main.66f05410.js",
+    "static/media/aboutpic.jpg": "/mern-app/static/media/aboutpic.e3b5f793e79162d3aef7.jpg",
+    "static/media/logo.png": "/mern-app/static/media/logo.4d5efb3b17f662a64174.png",
+    "static/media/signup.svg": "/mern-app/static/media/signup.0239a64b81f65656fc097421c1df6802.svg",
+    "static/media/signin.svg": "/mern-app/static/media/signin.ae2803007bc3f5f2c25a079561a4c800.svg",
+    "index.html": "/mern-app/index.html",
+    "main.e800b2bd.css.map": "/mern-app/static/css/main.e800b2bd.css.map",
+    "main.66f05410.js.map": "/mern-app/static/js/main.66f05410.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e800b2bd.css",
+    "static/js/main.66f05410.js"
+  ]
+}
